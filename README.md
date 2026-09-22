@@ -2,7 +2,7 @@
 
 **A passionate Data Scientist || Data Analyst || Machine Learning Enthusiast from India**
 
-Email Me 👉 ✉️ **[jagdishsutyawanshi632005@gmail.com](mailto:jagdishsutyawanshi632005@gmail.com)** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **[jagdishsutyawanshi632005@gmail.com](mailto:jagdishsutyawanshi632005@gmail.com)** For Collaboration/Project or Anything Else. 😊
 
 * 🔭 **I’m currently working on:** Fusion Software
 * 🌱 **I’m currently learning:** Data Science • Machine Learning • AI
