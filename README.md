@@ -6,8 +6,6 @@ Email Me 👉 ✉️ **[jagdishsutyawanshi632005@gmail.com](mailto:jagdishsutyaw
 
 * 🔭 **I’m currently working on:** Fusion Software
 * 🌱 **I’m currently learning:** Data Science • Machine Learning • AI
-* 👯 **I’m looking to collaborate on:** Netflix Data Analysis using SQL
-* 🤔 **I’m looking for help with:** Netflix Data Analysis using SQL
 * 📫 **How to reach me:** [jagdishsutyawanshi632005@gmail.com](mailto:jagdishsutyawanshi632005@gmail.com)
 * 😄 **Pronouns:** Jagdish
 * ⚡ **Fun fact:** I Love Tech and Tech Love Me
